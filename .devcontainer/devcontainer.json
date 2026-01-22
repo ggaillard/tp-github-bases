@@ -1,0 +1,20 @@
+{
+  "name": "TP GitHub - BTS SIO",
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {},
+  "customizations": {
+    "vscode": {
+      "settings": {
+        "terminal.integrated.defaultProfile.linux": "bash",
+        "editor.fontSize": 14,
+        "editor.wordWrap": "on",
+        "files.autoSave": "afterDelay"
+      },
+      "extensions": [
+        "yzhang.markdown-all-in-one",
+        "mhutchie.git-graph"
+      ]
+    }
+  },
+  "postCreateCommand": "git config --global init.defaultBranch main"
+}
