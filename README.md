@@ -15,13 +15,14 @@ Bienvenue dans ce TP de découverte de Git et GitHub !
 
 ```
 tp-github-bases/
-├── README.md          ← Ce fichier
+├── README.md                    ← Ce fichier
 ├── exercices/
-│   ├── 01_presentation.md   ← À compléter (Séance 1)
-│   └── 02_mon_projet.md     ← Modèle pour votre README (Séance 2)
+│   ├── 01_presentation.md       ← À compléter (Séance 1)
+│   ├── 02_mon_projet.md         ← Modèle pour votre README (Séance 2)
+│   └── 03_aller_plus_loin.md    ← Commandes avancées (Bonus)
 └── ressources/
-    ├── AIDE_MEMOIRE_GIT.md  ← Commandes essentielles
-    └── GLOSSAIRE.md         ← Vocabulaire Git
+    ├── AIDE_MEMOIRE_GIT.md      ← Commandes essentielles
+    └── GLOSSAIRE.md             ← Vocabulaire Git
 ```
 
 ## 🛠️ Démarrage rapide
@@ -50,6 +51,14 @@ Ouvrez le fichier `exercices/01_presentation.md` et suivez les instructions !
 
 - [Aide-mémoire Git](ressources/AIDE_MEMOIRE_GIT.md) - Les commandes essentielles
 - [Glossaire](ressources/GLOSSAIRE.md) - Le vocabulaire Git expliqué
+
+## 📝 Les exercices
+
+| Exercice | Séance | Description |
+|----------|--------|-------------|
+| [01_presentation.md](exercices/01_presentation.md) | Séance 1 | Premiers commits guidés pas à pas |
+| [02_mon_projet.md](exercices/02_mon_projet.md) | Séance 2 | Modèle pour créer votre README |
+| [03_aller_plus_loin.md](exercices/03_aller_plus_loin.md) | Bonus | Historique, branches, collaboration |
 
 ## ❓ Besoin d'aide ?
 
